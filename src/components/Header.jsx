@@ -1,6 +1,6 @@
 export default function Header({ progressPercentage }) {
     return (
-        <header className="sticky top-0 z-10 bg-zinc-950/80 backdrop-blur-md border-b border-zinc-800 px-4 py-5 shadow-sm shadow-emerald-900/10 transition-all">
+        <header className="sticky top-0 z-50 bg-zinc-950/80 backdrop-blur-md border-b border-zinc-800 px-4 py-5 shadow-sm shadow-emerald-900/10 transition-all">
             <div className="max-w-3xl mx-auto">
                 <div className="flex justify-between items-center mb-3">
                     <h1 className="text-xl sm:text-2xl font-bold tracking-tight text-zinc-100">
